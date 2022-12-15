@@ -21,15 +21,15 @@ function App() {
       <footer>
       <div className="right">
             <a href="https://github.com/hackenshaw">
-                <img className="github-logo" alt="" src="images/github-logo.png"/>
+                <img className="github-logo" alt="GitHub" src="images/github-logo.png"/>
             </a>
         
             <a href="https://www.youtube.com/channel/UCZEnbGBfukY7hukNcRr1vjA">
-                <img className="yt-logo" alt="" src="images/yt-logo.png"/>
+                <img className="yt-logo" alt="Youtube" src="images/yt-logo.png"/>
             </a>
         
             <a href="https://www.instagram.com/hackenshaw/">
-                <img className="insta-logo" alt="" src="images/instagram-logo.png"/>
+                <img className="insta-logo" alt="Instagram" src="images/instagram-logo.png"/>
             </a>
         </div>
       </footer>
