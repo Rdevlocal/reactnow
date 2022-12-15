@@ -3,6 +3,8 @@ A simple React template
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+See a live demo [here](https://hackenshaw.github.io/reactnow/)
+
 ## What's in this project?
 
 `README.md`: That is this file, where you can tell people what your cool website does and how you built it.
