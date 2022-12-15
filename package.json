@@ -27,7 +27,7 @@
   ],
   "author": "Hackenshaw",
   "license": "MIT",
-  "homepage": "https://github.com/hackenshaw/reactnow#readme",
+  "homepage": "https://hackenshaw.github.io/reactnow/",
   "eslintConfig": {
     "extends": [
       "react-app",
