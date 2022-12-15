@@ -1,6 +1,37 @@
-# Getting Started with Create React App
+# React Now
+A simple React template
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## What's in this project?
+
+`README.md`: That is this file, where you can tell people what your cool website does and how you built it.
+
+`public/index.html`: The single HTML page where all components will be appended.
+
+`src/App.css`: The styling rules for the pages in your site.
+
+`App.js`: The main Javascript for your new site. Here you can write JSX and nest components to build your application
+
+`package.json`: The NPM packages for your project's dependencies.
+
+`src/`: This folder holds the source files for your site.
+
+`src/components`: This folder holds all the components that you create.
+
+`src/components/YoutubeSubscribe.js`: An example component which displays a Youtube `Subscribe` button.
+
+## How to use this code
+
+> \> git clone https://github.com/hackenshaw/reactnow <br />
+> \> cd reactnow <br />
+> \> npm install <br />
+> \> npm start <br />
+
+## Credits
+* Youtube Subscribe Button Component: [Steady Learner](https://codesandbox.io/s/110n1q6vq?file=/src/index.js)
+* CRT Effect: [Alec Lownes](http://aleclownes.com/2017/02/01/crt-display.html)
+
 
 ## Available Scripts
 

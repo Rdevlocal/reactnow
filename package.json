@@ -1,6 +1,7 @@
 {
   "name": "reactnow",
   "version": "0.1.0",
+  "description": "A simple React application template",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
@@ -17,6 +18,16 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hackenshaw/reactnow.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Hackenshaw",
+  "license": "MIT",
+  "homepage": "https://github.com/hackenshaw/reactnow#readme",
   "eslintConfig": {
     "extends": [
       "react-app",
