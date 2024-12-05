@@ -101,3 +101,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+### update 5-12-2024
+YouTubeSubscribe Component
+The YouTubeSubscribe component now has two versions:
+
+Functional Component (Main): The primary version of the app, utilizing React Hooks for a more modern approach.
+Class-Based Component (Branch): The legacy version, retained for historical and educational purposes.
